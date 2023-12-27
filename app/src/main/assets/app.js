@@ -1,7 +1,7 @@
 /*****YTPRO*******
-Author: Prateek Chaubey
+Author: Marathi Unlimited
 Version: 3.1
-URI: https://github.com/prateek-chaubey/
+URI: https://github.com/nileshkongere/
 */
 
 
@@ -460,7 +460,7 @@ ytpSetI.innerHTML+=`<b style='font-size:18px' >YT PRO Settings</b>
 <div style="font-size:13px;"><b style="font-weight:bold">Disclaimer</b>: This is an unofficial OSS Youtube Mod , all the logos and brands are property of Google LLC.<br>
 You can get the source code at <a href="#" onclick="Android.oplink('https://github.com/prateek-chaubey/YTPRO')" > https://github.com/prateek-chaubey/YTPRO</a>
 <br><br><center>
-<a href="#" onclick="Android.oplink('https://github.com/prateek-chaubey/YTPRO/issues')" >Report Bugs</a>
+<a href="#" onclick="Android.oplink('https://github.com/nileshkongere')" >Report Bugs</a>
 </center></div>`;
 
 document.body.appendChild(ytpSet);
